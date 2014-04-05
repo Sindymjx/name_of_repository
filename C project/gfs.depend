@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1396597055 source:d:\codeblocks\c project\account.cpp
+	<iostream>
+	<string>
+	"Account.h"
+
+1396529720 d:\codeblocks\c project\account.h
+	<iostream>
+
+1396597386 source:d:\codeblocks\c project\accountmanager.cpp
+	"Account.h"
+	"AccountManager.h"
+	<iostream>
+
+1396529720 d:\codeblocks\c project\accountmanager.h
+	"Account.h"
+	<iostream>
+
+1396604653 source:d:\codeblocks\c project\fuerdai.cpp
+	"FuErDai.h"
+	"Account.h"
+
+1396529720 d:\codeblocks\c project\fuerdai.h
+	"Account.h"
+	<iostream>
+
+1396601581 source:d:\codeblocks\c project\gayfoolshy.cpp
+	"GayFoolShy.h"
+	"FuErDai.h"
+	"GuanErDai.h"
+	"Account.h"
+	<iostream>
+
+1396601581 d:\codeblocks\c project\gayfoolshy.h
+	"FuErDai.h"
+	"GuanErDai.h"
+	<iostream>
+
+1396529720 d:\codeblocks\c project\guanerdai.h
+	"Account.h"
+	<iostream>
+
+1396602086 source:d:\codeblocks\c project\guanerdai.cpp
+	"GuanErDai.h"
+	"Account.h"
+
+1396530986 source:d:\codeblocks\c project\main.cpp
+	"Account.h"
+	"AccountManager.h"
+	"FuErDai.h"
+	"GayFoolShy.h"
+	"GuanErDai.h"
+	<iostream>
+	<string>
+

@@ -213,3 +213,11 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+C project/Account.cpp.save
+C project/Account.h.save
+C project/AccountManager.cpp.save
+C project/AccountManager.h.save
+C project/BookIndex.cpp.save
+C project/BookIndex.h.save
+*.save
+C project/C project.layout

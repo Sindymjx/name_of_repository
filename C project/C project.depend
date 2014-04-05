@@ -1,0 +1,142 @@
+# depslib dependency file v1.0
+1389865566 source:d:\codeblocks\c project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1387212556 source:d:\codeblocks\c project\untitled2.c
+
+1396620551 source:d:\codeblocks\c project\main.cpp
+	<iostream>
+	<string>
+	"stack.h"
+	"MidToLast.h"
+
+1395414935 d:\codeblocks\c project\date.h
+	<iostream>
+	<iomanip>
+
+1394263755 source:d:\codeblocks\c project\date.cpp
+	"Date.h"
+	<string>
+	<iostream>
+	<sstream>
+
+1395503233 source:d:\codeblocks\c project\card.cpp
+	"Card.h"
+	<string>
+
+1395503233 d:\codeblocks\c project\card.h
+	<string>
+
+1394808750 d:\codeblocks\c project\rational.h
+
+1394864374 d:\codeblocks\c project\bookindex.h
+
+1395503550 source:d:\codeblocks\c project\deckofcards.cpp
+	"DeckOfCards.h"
+	<vector>
+	"Card.h"
+
+1395421389 d:\codeblocks\c project\deckofcards.h
+	<vector>
+	"Card.h"
+
+1395488000 d:\codeblocks\c project\student.h
+
+1395493472 source:d:\codeblocks\c project\student.cpp
+	"Student.h"
+	<cstring>
+	<iostream>
+	<iomanip>
+
+1395591348 source:d:\codeblocks\c project\shallowcopy.cpp
+	<iostream>
+	<cstring>
+	"shallowcopy.h"
+
+1395591348 d:\codeblocks\c project\shallowcopy.h
+	<iostream>
+
+1395592088 source:d:\codeblocks\c project\test.cpp
+	<cstdio>
+	<iostream>
+
+1396611857 source:d:\codeblocks\c project\accountmanager.cpp
+	"Account.h"
+	"AccountManager.h"
+	<iostream>
+
+1396529720 d:\codeblocks\c project\account.h
+	<iostream>
+
+1396529720 d:\codeblocks\c project\accountmanager.h
+	"Account.h"
+	<iostream>
+
+1396597055 source:d:\codeblocks\c project\account.cpp
+	<iostream>
+	<string>
+	"Account.h"
+
+1396620567 d:\codeblocks\c project\stack.h
+	<iostream>
+
+1396424308 d:\codeblocks\c project\match.h
+
+1396446905 source:d:\codeblocks\c project\match.cpp
+	<iostream>
+	"match.h"
+	"stack.h"
+
+1396620567 source:d:\codeblocks\c project\stack.cpp
+	<iostream>
+	"stack.h"
+
+1396519074 d:\codeblocks\c project\bookitem.h
+	<iostream>
+
+1396519084 d:\codeblocks\c project\bulkitem.h
+	"BookItem.h"
+	<iostream>
+
+1396524105 source:d:\codeblocks\c project\bookitem.cpp
+	"BookItem.h"
+
+1396604653 source:d:\codeblocks\c project\fuerdai.cpp
+	"FuErDai.h"
+	"Account.h"
+
+1396529720 d:\codeblocks\c project\fuerdai.h
+	"Account.h"
+	<iostream>
+
+1396602086 source:d:\codeblocks\c project\guanerdai.cpp
+	"GuanErDai.h"
+	"Account.h"
+
+1396529720 d:\codeblocks\c project\guanerdai.h
+	"Account.h"
+	<iostream>
+
+1396601581 source:d:\codeblocks\c project\gayfoolshy.cpp
+	"GayFoolShy.h"
+	"FuErDai.h"
+	"GuanErDai.h"
+	"Account.h"
+	<iostream>
+
+1396601581 d:\codeblocks\c project\gayfoolshy.h
+	"FuErDai.h"
+	"GuanErDai.h"
+	<iostream>
+
+1396620551 d:\codeblocks\c project\midtolast.h
+	<iostream>
+	<string>
+
+1396624496 source:d:\codeblocks\c project\midtolast.cpp
+	"MidToLast.h"
+	"stack.h"
+	<string>
+
